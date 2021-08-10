@@ -1,2 +1,2 @@
-# littleprince2
-Demos in path of producing littleprince2
+# demos-littleprince2
+Demos in producing littleprince2
